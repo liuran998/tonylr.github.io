@@ -36,7 +36,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 # 🔥 News 
 - *2025.03*: &nbsp; One paper on diversified negative sampling is accepted in workshop [GDMA2025](https://gdma2025.github.io/). 
-- *2024.11*: &nbsp; We share our conference paper during the oral presentation in [EMNLP2024](https://emnlp2024-main-conference.paperform.co/). 
+- *2024.11*: &nbsp; We share our conference paper during the poster presentation in [EMNLP2024](https://emnlp2024-main-conference.paperform.co/). 
 - *2024.05*: &nbsp; One paper on meta-learning is accepted in [EMNLP2024](https://emnlp2024-main-conference.paperform.co/). 
 
 # 📝 Selected Publications 
@@ -86,7 +86,7 @@ Negative Sampling (DANS) on knowledge graphs.
 
 
 # 💬 Invited Talks
-- *2024.11*, We shared our paper(https://github.com/liuran998/RelAdapter) during the oral presentation [EMNLP 2024 (Miami, Florida) ]
+- *2024.11*, We shared our paper(https://github.com/liuran998/RelAdapter) during the poster presentation [EMNLP 2024 (Miami, Florida) ]
 
 # 💻 Internships
 - *2019.1 - 2020.06*, Micron Singapore, Data engineering.
