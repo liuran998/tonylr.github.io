@@ -18,11 +18,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-TESTING:I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my B.S. degree from Shanxi University in 2020, majoring in computer science and technology.
+TESTING:I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Fang Yuan]([https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0](https://www.yfang.site/curriculum-vitae)). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my Masters in Analytics from Nanyang Technology University (NTU) in 2020.
 
-My research interests focus on explainable natural language processing, including explainable probing, rationalization, and reasoning. 
-I am also interested in explicit knowledge and implicit knowledge, such as FrameNet KBs and Parameterized PLMs.
-Feel free to contact me by <a href="mailto:yunxiaomr@163.com">email</a> if you are interested in discussing or collaborating with me.
+My research focuses on machine learning for Knowledge Graphs, with particular emphasis on multimodal learning, few-shot relation learning, and meta-learning. I am deeply interested in leveraging advanced methods to improve knowledge representation and reasoning in graph-based models. Additionally, I explore the use of Large Language Models (LLMs) such as BERT, Lama, and other state-of-the-art models to enhance machine understanding and reasoning capabilities.
+Feel free to contact me by <a href="mailto:liuran_998@hotmail.com">email</a> if you are interested in discussing or collaborating with me.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> 
 It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
@@ -51,78 +50,45 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/KnowProb1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/RelAdapter.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explaining Black-box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective](https://yunxiaomr.github.io/) (**<font color=red>A long oral presentation</font>**)
+[Context-Aware Adapter Tuning for Few-Shot Relation Learning in Knowledge Graphs. EMNLP 2024](https://github.com/liuran998/RelAdapter)
 
-Yunxiao Zhao, Hao Xu, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
+Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 
-- Pre-trained Language Models (PLMs) are trained on large amounts of unlabeled data, and they exhibit remarkable reasoning skills. However, the trustworthiness challenges have become increasingly evident. To alleviate this problem, we propose a novel knowledge-guided probing approach called KnowProb in a post-hoc explanation way, which aims to probe whether black-box PLMs understand implicit knowledge beyond the given text, rather than focusing only on the surface-level content of the text. 
+- Knowledge graphs (KGs) are instrumental in various real-world applications, yet they often suffer from incompleteness due to missing relations. To predict instances for novel relations with limited training examples, few-shot relation learning approaches have emerged, utilizing techniques such as meta-learning. However, the assumption is that novel relations in meta-testing and base relations in meta-training are independently and identically distributed, which may not hold in practice. To address the limitation, we propose RelAdapter, a context-aware adapter for few-shot relation learning in KGs designed to enhance the adaptation process in meta-learning. 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LOG_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/DANS.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LOG: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering](https://yunxiaomr.github.io/)
+[Diversified and Adaptive Negative Sampling on Knowledge Graphs. Workshop GDMA 2025](https://github.com/liuran998/DANS)
 
-Hao Xu\*, Yunxiao Zhao\*, Jiayang Zhang, Zhiqiang Wang, Ru Li.
+Ran Liu, Zhongzhou Liu, Xiaoli Li, Hao Wu, Yuan Fang.
 
 - Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AGR: Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
-
-Yunxiao Zhao, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
-<!-- 
-<a href="https://aclanthology.org/2024.acl-short.47.pdf">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<a href="../images/poster_agr.pdf">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
-- We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. We introduce causal intervention calculus to quantify the causal effects inherent during rationale training, and utilize the reinforcement learning process to refine their learning bias.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/CFN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A comprehensive Overview of CFN From a Commonsense Perspective](https://yunxiaomr.github.io/)
-
-Ru Li, Yunxiao Zhao, Zhiqiang Wang, Xuefeng Su, Shaoru Guo, Yong Guan, Xiaoqi Han, Hongyan Zhao.
-<!-- 
-<a href="https://link.springer.com/article/10.1007/s11633-023-1450-8">**Paper**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<a href="https://www.mi-research.net/article/doi/10.1007/s11633-023-1450-8">**Poster**</a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
-- We conduct a comprehensive overview of Chinese FrameNet from a commonsense perspective, covering topics such as scenario commonsense representation, Chinese FrameNet resources, and its applications. We also summarize recent breakthroughs and identify future research directions. 
-</div>
-</div>
-
 
 # 🎖 Honors and Awards
-- *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
-- *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
-- *2022.10* The Champion Award on CMRC2022, Chinese Information Processing Society of China (CIPS), in 2022.
-- *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
-- *2021.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- *2021.05* The Outstanding Graduate Student. 
+
+- *2021.01* A*STAR Graduate Scholar. 
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
-- *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
-- *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
+- *2021.01 - 2025.05 (now)*, School of Computer and Information Technology, Singapore Management University. Ph.D. Student.
+- *2019.05 - 2020.06*, School of Physical and Mathematical Sciences, Nanyang Technological University. MSc in Analytics.
+
 
 
 # 💬 Invited Talks
-- *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
-
+- *2024.11*, We shared our paper(https://github.com/liuran998/RelAdapter) during the oral presentation [EMNLP 2024 (Miami, Florida) ]
 
 # 💻 Internships
-- *2019.12 - 2020.06*, [Taiyuan](https://yunxiaomr.github.io), China.
+- *2019.1 - 2020.06*, Micron Singapore, Data engineering.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=VV8T-NYVjl9sU0A1x6WDxCkr-L4MgnBbZbkCYCK9Ljw&co=ffffff&cmo=ffffff&cmn=ffffff"></script>
 
