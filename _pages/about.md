@@ -46,9 +46,6 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 - *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [Findings of ACL2021](https://2021.aclweb.org/). 
 
 # 📝 Selected Publications 
-<span class="noter" style="color:#7d7d7d"> (* = equal contribution)</span> 
-<!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/RelAdapter.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +83,7 @@ Negative Sampling (DANS) on knowledge graphs.
 
 # 🎖 Honors and Awards
 
-- *2021.01* A*STAR Graduate Scholar. 
+- *2021.01* A STAR Graduate Scholar. 
 
 # 📖 Educations
 - *2021.01 - 2025.05 (now)*, School of Computer and Information Technology, Singapore Management University. Ph.D. Student.
