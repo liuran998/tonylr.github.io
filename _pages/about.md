@@ -50,10 +50,10 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <!--<span class="noter" style="color:#7d7d7d"> (* = equal contribution | † = I mentored)</span> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/RelAdapter.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/RelAdapter.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Context-Aware Adapter Tuning for Few-Shot Relation Learning in Knowledge Graphs. EMNLP 2024](https://github.com/liuran998/RelAdapter)
+[Context-Aware Adapter Tuning for Few-Shot Relation Learning in Knowledge Graphs](https://github.com/liuran998/RelAdapter)
 
 Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 
@@ -62,10 +62,10 @@ Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/DANS.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GDMA 2025</div><img src='images/DANS.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diversified and Adaptive Negative Sampling on Knowledge Graphs. Workshop GDMA 2025](https://github.com/liuran998/DANS)
+[Diversified and Adaptive Negative Sampling on Knowledge Graphs](https://github.com/liuran998/DANS)
 
 Ran Liu, Zhongzhou Liu, Xiaoli Li, Hao Wu, Yuan Fang.
 
