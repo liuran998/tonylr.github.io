@@ -86,7 +86,7 @@ Negative Sampling (DANS) on knowledge graphs.
 
 
 # 💬 Invited Talks
-- *2024.11*, We shared our paper(https://github.com/liuran998/RelAdapter) during the poster presentation [EMNLP 2024 (Miami, Florida) ]
+- *2024.11*, We shared our [paper](https://github.com/liuran998/RelAdapter) during the poster presentation in EMNLP2024 (Miami,Florida)
 
 # 💻 Internships
 - *2019.1 - 2020.06*, Micron Singapore, Data engineering.
