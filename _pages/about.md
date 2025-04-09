@@ -69,7 +69,17 @@ Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 
 Ran Liu, Zhongzhou Liu, Xiaoli Li, Hao Wu, Yuan Fang.
 
-- Explainable multi-hop question answering aims to utilize multi-source intensive documents retrieved to derive the answer. However, it is challenging to model the importance of knowledge retrieved. In this paper, we propose LOG, a novel optimized retrieval method to discover more beneficial knowledge from a local-to-global perspective, facilitating multi-hop reasoning, notably for long-chain reasoning.  
+- n knowledge graph embedding, aside from positive triplets (i.e., facts in
+the knowledge graph), the negative triplets used for training also have a di-
+rect influence on the model performance. In reality, since knowledge graphs
+are sparse and incomplete, negative triplets often lack explicit labels, and
+thus they are often obtained from various sampling strategies (e.g., ran-
+domly replacing an entity in a positive triplet). An ideal sampled negative
+triplet should be informative enough to help the model train better. However,
+existing methods often ignore diversity and adaptiveness in their sampling
+process, which harms the informativeness of negative triplets. As such, we
+propose a generative adversarial approach called Diversified and Adaptive
+Negative Sampling (DANS) on knowledge graphs. 
 </div>
 </div>
 
