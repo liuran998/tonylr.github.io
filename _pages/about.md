@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I am now a PhD student (2022-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Fang Yuan](https://www.yfang.site/curriculum-vitae). Meanwhile, I am co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received my Masters in Analytics from Nanyang Technology University (NTU) in 2020.
+I am currently pursuing a PhD in the School of Computer Science and Information Systems at Singapore Management University (SMU), since 2021. My research is supervised by Prof. [Fang Yuan](https://www.yfang.site/curriculum-vitae) and co-supervised by Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), affiliated with the Institute for Infocomm Research at A*Star, Singapore. Prior to my doctoral studies, I obtained a Master’s degree in Analytics from Nanyang Technological University (NTU) in 2020.
 
 My research focuses on machine learning for Knowledge Graphs, with particular emphasis on multimodal learning, few-shot relation learning, and meta-learning. I am deeply interested in leveraging advanced methods to improve knowledge representation and reasoning in graph-based models. Additionally, I explore the use of Large Language Models (LLMs) such as BERT, Lama, and other state-of-the-art models to enhance machine understanding and reasoning capabilities.
 Feel free to contact me by <a href="mailto:liuran_998@hotmail.com">email</a> if you are interested in discussing or collaborating with me.
