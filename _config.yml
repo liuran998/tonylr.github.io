@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tony Liu Ran"
-  avatar           : "images/tony.jpg"
+  avatar           : "images/Tony.jpg"
   bio              : "Singapore Management University"
   location         : "Singapore"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/liuran998"# e.g., "github username"
+  github           : "liuran998"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
