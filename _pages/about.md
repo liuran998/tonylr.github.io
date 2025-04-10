@@ -73,7 +73,7 @@ Negative Sampling (DANS) on knowledge graphs.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review - ARR 2025 </div><img src='DANS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review - ARR 2025 </div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A paper on Few-Shot Relation Learning in Multimodal Knowledge Graphs
