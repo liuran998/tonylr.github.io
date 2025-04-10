@@ -59,7 +59,7 @@ Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 
 Ran Liu, Zhongzhou Liu, Xiaoli Li, Hao Wu, Yuan Fang.
 
-- n knowledge graph embedding, aside from positive triplets (i.e., facts in
+- In knowledge graph embedding, aside from positive triplets (i.e., facts in
 the knowledge graph), the negative triplets used for training also have a di-
 rect influence on the model performance. In reality, since knowledge graphs
 are sparse and incomplete, negative triplets often lack explicit labels, and
@@ -73,9 +73,15 @@ Negative Sampling (DANS) on knowledge graphs.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review - ARR 2025 </div><img src='DANS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A paper on Few-Shot Relation Learning in Multimodal Knowledge Graphs
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-
 - *2021.01* A STAR Graduate Scholar. 
 
 # 📖 Educations
