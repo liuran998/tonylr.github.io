@@ -93,8 +93,9 @@ A paper on Few-Shot Relation Learning in Multimodal Knowledge Graphs
 # 💬 Invited Talks
 - *2024.11*, We shared our [paper](https://github.com/liuran998/RelAdapter) during the poster presentation in EMNLP2024 (Miami,Florida)
 
-# 💻 Internships
-- *2019.1 - 2020.06*, Micron Singapore, Data engineering.
+# 💻 Work Experience
+- *2021.1 - 2025 (Present)*, A*STAR Institute for Infocomm Research I²R (Industry Attachment). 
+- *2019.1 - 2020.06*, Micron Singapore, Data engineering (Internship).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=VV8T-NYVjl9sU0A1x6WDxCkr-L4MgnBbZbkCYCK9Ljw&co=ffffff&cmo=ffffff&cmn=ffffff"></script>
 
