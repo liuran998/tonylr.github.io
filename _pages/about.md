@@ -43,7 +43,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='RelAdapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Context-Aware Adapter Tuning for Few-Shot Relation Learning in Knowledge Graphs](https://github.com/liuran998/RelAdapter)
+[Context-Aware Adapter Tuning for Few-Shot Relation Learning in Knowledge Graphs](https://aclanthology.org/2024.emnlp-main.970/)
 
 Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 
@@ -55,7 +55,7 @@ Liu Ran, Zhongzhou Liu, Xiaoli Li, Yuan Fang.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GDMA 2025</div><img src='DANS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diversified and Adaptive Negative Sampling on Knowledge Graphs](https://github.com/liuran998/DANS)
+[Diversified and Adaptive Negative Sampling on Knowledge Graphs](https://arxiv.org/abs/2410.07592)
 
 Ran Liu, Zhongzhou Liu, Xiaoli Li, Hao Wu, Yuan Fang.
 
