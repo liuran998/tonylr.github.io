@@ -33,6 +33,7 @@ It has been attented <span id="busuanzi_value_site_pv"></span> times.
 
 
 # 🔥 News 
+- *2025.05*: &nbsp; We share our workshop paper in [GDMA2025](https://gdma2025.github.io/). 
 - *2025.03*: &nbsp; One paper on diversified negative sampling is accepted in workshop [GDMA2025](https://gdma2025.github.io/). 
 - *2024.11*: &nbsp; We share our conference paper during the poster presentation in [EMNLP2024](https://emnlp2024-main-conference.paperform.co/). 
 - *2024.05*: &nbsp; One paper on meta-learning is accepted in [EMNLP2024](https://emnlp2024-main-conference.paperform.co/). 
